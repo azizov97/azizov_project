@@ -1,0 +1,12 @@
+// colors
+$color-primary: #263238;
+$color-secondary: #8f95a5;
+$color-black: #000;
+$color-white: #fff;
+
+// placeholder selectors
+%flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
